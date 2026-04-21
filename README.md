@@ -12,7 +12,7 @@ Rationale for Selection: We selected these specific algorithms to create a stark
 
 
 
-Part B: Random Arrays (result1.png
+#Part B: Random Arrays (result1.png)
 Explanation: This graph illustrates the runtime of the algorithms when tasked with sorting completely random arrays.
 Quick Sort remains incredibly fast and stable, with its runtime appearing nearly flat along the bottom of the graph, even at 3,000 elements.
 
@@ -20,7 +20,7 @@ Bubble Sort and Selection Sort demonstrate a clear quadratic upward curve.
 
 Observation: Selection Sort performs slightly faster than Bubble Sort here. While both fall under the same complexity class, Selection Sort executes significantly fewer memory swap operations per pass compared to Bubble Sort, giving it a slight edge in raw processing time
 
-Part C: Nearly Sorted Arrays - 5% Noise (result2.png)
+#Part C: Nearly Sorted Arrays - 5% Noise (result2.png)
 Explanation: In this experiment, the algorithms were given arrays that were already sorted, but 5% of the elements were randomly swapped to introduce "noise."
 
 Quick Sort remains highly efficient and unaffected by the noise.
