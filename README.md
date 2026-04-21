@@ -4,6 +4,7 @@ Students:
 Osaid Arkia - 213727993
 
 Salih Abahry - 214051922
+
 Objective:The goal of this assignment is to gain hands-on experience with Python by implementing various sorting algorithms and empirically comparing their running times. By running controlled experiments on both completely random and nearly sorted arrays, we aim to visualize theoretical time complexities and understand how the initial distribution of data impacts real-world algorithm performance.
 
 Selected Algorithms:
